@@ -28,8 +28,6 @@ def get_forecast(data_frame):
 def run():
     df = get_input_data_frame()
     forecast = get_forecast(df)
-    df_forecast = pd.DataFrame(forecast).reset_index()
-    df_forecast.columns = [DATE_COLUMN, SALES_COLUMN]
     df_forecast = pd.DataFrame(
         {
             DATE_COLUMN: forecast.index,
