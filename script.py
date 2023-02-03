@@ -20,7 +20,7 @@ def get_input_data_frame():
 
 
 def get_forecast(data_frame):
-    model = ARIMA(data_frame[SALES_COLUMN], order=(1,1,1))
+    model = ARIMA(data_frame[SALES_COLUMN], order=(6,1,1))
     model_fit = model.fit()
     return model_fit.forecast(steps=STEPS)
 
