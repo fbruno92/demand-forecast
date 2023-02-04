@@ -11,11 +11,11 @@ Versão do Python utilizada: 3.10.9
 Fontes:
 -------
 
-Stackoverflow: https://stackoverflow.com/questions/26097916/convert-pandas-series-to-dataframe
-Tutorial no _Youtube: https://www.youtube.com/watch?v=v7rZpT8NCbk
-Documentação official do _Statsmodels:`https://www.statsmodels.org/stable/user-guide.html
-Documentação official do _Python:`https://docs.python.org/3/
-Documentação official do _Pandas:`https://pandas.pydata.org/docs/user_guide/index.html
+. Stackoverflow: https://stackoverflow.com/questions/26097916/convert-pandas-series-to-dataframe
+. Tutorial no _Youtube: https://www.youtube.com/watch?v=v7rZpT8NCbk
+. Documentação official do _Statsmodels:`https://www.statsmodels.org/stable/user-guide.html
+. Documentação official do _Python:`https://docs.python.org/3/
+. Documentação official do _Pandas:`https://pandas.pydata.org/docs/user_guide/index.html
 
 
 1. Para instalar dependencias
